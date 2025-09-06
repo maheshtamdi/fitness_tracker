@@ -1,0 +1,4 @@
+average_heart_rate_(bpm): 72.0
+vigorous_activity_minutes: 90.0
+distance_traveled_(km): 6.0
+body_fat_percentage: 80.0
